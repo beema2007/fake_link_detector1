@@ -14,7 +14,8 @@
   
 
 ### Hosted Project Link
-[mention your project hosted link here]
+(https://beema2007.github.io/fake_link_detector1/
+)
 
 ### Project Description
 [Here’s a clear and professional project description you can use:
