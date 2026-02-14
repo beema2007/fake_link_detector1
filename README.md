@@ -2,27 +2,37 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [fake_link_detector1] 🎯
 
-## Basic Details
+## A machine learning–based web security tool that analyzes URLs and webpage features to identify and block fake or phishing links in real time.
 
-### Team Name: [Name]
+
+### Team Name: [Beema]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Beema P Haneefa] - [ilahia college of engineering and technology]
+  
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Here’s a clear and professional project description you can use:
+
+**Fake Link Detector** is a machine learning–based web security system designed to identify and prevent access to malicious or phishing URLs. The project analyzes various URL features such as domain structure, length, special characters, HTTPS usage, and other suspicious patterns to classify links as legitimate or fake. By leveraging trained classification models, the system provides real-time detection to enhance user safety and reduce the risk of phishing attacks, data theft, and online fraud.
+]
 
 ### The Problem statement
-[What problem are you solving?]
+[**Simplified Problem Statement:**
+
+Many people cannot tell if a link is real or fake. Fake (phishing) links can steal personal information, passwords, and money. So, we need a system that can automatically detect and warn users about fake links to keep them safe online.
+]
 
 ### The Solution
-[How are you solving it?]
+[**Solution:**
+
+Develop a Fake Link Detector system that automatically checks and analyzes URLs using machine learning techniques. The system examines features like URL length, domain name, special characters, and security indicators (HTTPS) to determine whether a link is genuine or fake. It then classifies the link and alerts the user in real time, helping prevent phishing attacks and protecting sensitive information.
+]
 
 ---
 
@@ -31,15 +41,15 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: JavaScript, html,css
+- Frameworks used: vanilla javascript
+- Libraries used: regex
+- Tools used: vscode,web browser,git/github
 
 **For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Main components: computer,CPU,RAM,storage,internet connection
+- Specifications: windows,browser supply,display
+- Tools required: cable,mousee
 
 ---
 
