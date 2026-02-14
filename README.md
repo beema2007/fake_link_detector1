@@ -155,6 +155,8 @@ architecture diagram
 
 
 **Application Workflow:**
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a5c26853-062c-46b9-bd88-fc88b4e6c2a1" />
+
 
 User Input
 
