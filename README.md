@@ -150,6 +150,9 @@ JavaScript logic extracts URL features and analyzes them.
 System evaluates the URL based on predefined rules.
 
 Result is displayed on the UI: Safe or Suspicious.
+architecture diagram
+<img width="384" height="200" alt="image" src="https://github.com/user-attachments/assets/a128224b-c229-4464-9e54-67982ad8658a" />
+
 
 **Application Workflow:**
 
