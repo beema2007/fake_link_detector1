@@ -57,10 +57,11 @@ Develop a Fake Link Detector system that automatically checks and analyzes URLs 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1:  Real-Time URL Analysis – Instantly checks the entered link and analyzes it for suspicious patterns.
+- Feature 2: Phishing Detection – Identifies potentially fake or malicious links based on predefined rules (e.g., unusual characters, long URLs, missing HTTPS).
+- Feature 3: User-Friendly Interface – Simple and clean web interface built with HTML and CSS for easy usage
+- Feature 4: Instant Result Display – Quickly shows whether the link is Safe or Suspicious.
+
 
 ---
 
@@ -69,22 +70,16 @@ List the key features of your project:
 ### For Software:
 
 #### Installation
-```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
-```
 
 #### Run
-```bash
-[Run commands - e.g., npm start, python app.py]
-```
+intex.html,script.js,style.css
 
 ### For Hardware:
 
 #### Components Required
-[List all components needed with specifications]
 
 #### Circuit Setup
-[Explain how to set up the circuit]
+mouse/keyboard,CPU,RAM,internet connection,storage,computer
 
 ---
 
@@ -94,26 +89,94 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="629" height="817" alt="Screenshot 2026-02-14 101045" src="https://github.com/user-attachments/assets/28859cec-007d-4d61-a526-969ff7b7193e" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+
 
 #### Diagrams
 
 **System Architecture:**
 
-![Architecture Diagram](docs/architecture.png)
-*Explain your system architecture - components, data flow, tech stack interaction*
+Components
+
+User Interface (UI)
+
+Built using HTML and CSS
+
+Allows users to input URLs and view results
+
+Provides a clean and intuitive design
+
+Detection Logic
+
+Implemented in JavaScript
+
+Analyzes URL features such as:
+
+Presence of HTTPS
+
+URL length
+
+Special characters or unusual patterns
+
+Suspicious domain names
+
+Uses conditional rules to classify links as Safe or Suspicious
+
+Browser Execution
+
+Entire logic runs in the user’s browser (client-side)
+
+No backend server or database is needed
+
+Provides real-time detection
+
+Output / Feedback
+
+Displays the result immediately on the web page
+
+Alerts the user if the URL is unsafe
+
+2️⃣ Data Flow
+
+User enters a URL in the input field.
+
+JavaScript logic extracts URL features and analyzes them.
+
+System evaluates the URL based on predefined rules.
+
+Result is displayed on the UI: Safe or Suspicious.
 
 **Application Workflow:**
 
-![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
+User Input
+
+The user opens the web page and enters a URL into the input field.
+
+URL Processing
+
+JavaScript extracts features from the URL, such as:
+
+HTTPS/HTTP usage
+
+Length of the URL
+
+Special characters or suspicious patterns
+
+Domain name structure
+
+Detection & Analysis
+
+The system checks the URL against predefined rules for fake or phishing links.
+
+Result Generation
+
+Based on the analysis, the system classifies the URL as Safe or Suspicious.
+
+Output Display
+
+The result is immediately shown to the user on the web page.
 
 ---
 
@@ -121,27 +184,24 @@ List the key features of your project:
 
 #### Schematic & Circuit
 
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+Schematic & Circuit
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+Not applicable – The project does not use any electronic components, sensors, or circuits.
+
+All operations are performed client-side in the browser.
+
 
 #### Build Photos
 
-![Team](Add photo of your team here)
+You can include screenshots of the project running in a browser instead of hardware photos.
 
-![Components](Add photo of your components here)
-*List out all components shown*
+For example:
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+Home page with URL input field
 
-![Final](Add photo of final product here)
-*Explain the final build*
+Result display showing “Safe” or “Suspicious”
 
----
-
+Any design or UI features you implemented
 ## Additional Documentation
 
 ### For Web Projects with Backend:
