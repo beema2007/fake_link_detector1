@@ -90,8 +90,11 @@ mouse/keyboard,CPU,RAM,internet connection,storage,computer
 #### Screenshots (Add at least 3)
 
 <img width="629" height="817" alt="Screenshot 2026-02-14 101045" src="https://github.com/user-attachments/assets/28859cec-007d-4d61-a526-969ff7b7193e" />
-
-
+this image shows that this kind of links are safe 
+<img width="599" height="584" alt="Screenshot 2026-02-14 105919" src="https://github.com/user-attachments/assets/d4ae2535-f129-4def-bcaa-7ea198a636db" />
+this image shows that link is suspicious ,mark as risky
+<img width="539" height="556" alt="Screenshot 2026-02-14 105958" src="https://github.com/user-attachments/assets/ecb04ad1-d8a6-4f1e-872f-07f1ee9ef091" />
+this image shows that this link is dangerous
 
 
 #### Diagrams
